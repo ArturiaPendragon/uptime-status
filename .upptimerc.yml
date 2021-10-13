@@ -42,6 +42,17 @@ sites:
       - 500
     assignees:
     - ArturiaPendragon
+  - name: Ishtar Project
+    url: $IP_PARIS
+    icon: https://findicons.com/files/icons/2118/nuvola/128/server.png
+    check: "tcp-ping"
+    port: 80
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 500
+    assignees:
+    - ArturiaPendragon
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
