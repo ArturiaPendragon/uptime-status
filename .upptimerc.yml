@@ -72,9 +72,9 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 commitMessages:
-  readmeContent: ":pencil: Mise à jour du résumé dans le README"
-  summaryJson: ":card_file_box: Mise à jour du résumé de statut"
-  statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms)"
-  graphsUpdate: ":bento: Mise à jour des graphiques"
+  readmeContent: ":pencil: Mise à jour du résumé dans le README [skip ci] [upptime]"
+  summaryJson: ":card_file_box: Mise à jour du résumé de statut [skip ci] [upptime]"
+  statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [upptime]"
+  graphsUpdate: ":bento: Mise à jour des graphiques [skip ci] [upptime]"
   commitAuthorName: "ArturiaPendragon"
   commitAuthorEmail: "saberpendradon@gmail.com"
