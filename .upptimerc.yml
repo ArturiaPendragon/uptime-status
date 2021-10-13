@@ -69,6 +69,7 @@ status-website:
   baseUrl: /uptime-status
   favicon: $PERSONAL_ICON
   logoUrl: $PERSONAL_ICON
+  themeUrl: https://nest-status-src.vercel.app/assets/theme.css
   name: Arturia Pendragon - État des serveurs
   #introTitle: "Welcome to our **mioscape.my.id** server status page."
   #introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
@@ -78,4 +79,3 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-themeUrl: https://nest-status-src.vercel.app/assets/theme.css
