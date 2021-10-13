@@ -64,7 +64,6 @@ status-website:
   name: Arturia Pendragon - État des serveurs
   #introTitle: "Welcome to our **mioscape.my.id** server status page."
   #introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
-  theme: ocean
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
