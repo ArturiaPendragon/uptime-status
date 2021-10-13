@@ -76,5 +76,3 @@ commitMessages:
   summaryJson: ":card_file_box: Mise à jour du résumé de statut [skip ci] [upptime]"
   statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [upptime]"
   graphsUpdate: ":bento: Mise à jour des graphiques [skip ci] [upptime]"
-  commitAuthorName: "ArturiaPendragon"
-  commitAuthorEmail: "saberpendradon@gmail.com"
