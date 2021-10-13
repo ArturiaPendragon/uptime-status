@@ -42,7 +42,7 @@ sites:
     assignees:
     - ArturiaPendragon
   - name: Arturia Pendragon Website
-    url: $PERSONAL_WEBSITE
+    url: https://www.ovh.com/fr/
     icon: https://docs.nest.land/img/logo.svg
     maxResponseTime: 5000
     expectedStatusCodes:
