@@ -4,7 +4,7 @@ repo: uptime-status
 sites:
   - name: Arturia Pendragon Website
     url: $PERSONAL_WEBSITE
-    icon: https://findicons.com/files/icons/2118/nuvola/128/server.png
+    icon: https://docs.nest.land/img/logo.svg
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
@@ -13,7 +13,7 @@ sites:
     - ArturiaPendragon
   - name: API
     url: $URL_API
-    icon: https://findicons.com/files/icons/2118/nuvola/128/server.png
+    icon: https://docs.nest.land/img/logo.svg
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
@@ -44,7 +44,7 @@ sites:
     - ArturiaPendragon
   - name: Ishtar Project
     url: $IP_PARIS
-    icon: https://findicons.com/files/icons/2118/nuvola/128/server.png
+    icon: https://docs.nest.land/img/logo.svg
     check: "tcp-ping"
     port: 80
     maxResponseTime: 5000
@@ -71,8 +71,4 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-commitMessages:
-  readmeContent: ":pencil: Mise à jour du résumé dans le README [skip ci] [upptime]"
-  summaryJson: ":card_file_box: Mise à jour du résumé de statut [skip ci] [upptime]"
-  statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [upptime]"
-  graphsUpdate: ":bento: Mise à jour des graphiques [skip ci] [upptime]"
+themeUrl: https://nest-status-src.vercel.app/assets/theme.css
