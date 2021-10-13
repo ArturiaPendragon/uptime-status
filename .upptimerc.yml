@@ -7,19 +7,11 @@ sites:
     icon: https://findicons.com/files/icons/2118/nuvola/128/server.png
     check: "tcp-ping"
     port: 80
-    maxResponseTime: 5000
-    expectedStatusCodes:
-      - 200
-      - 500
     assignees:
     - ArturiaPendragon
   - name: Flood Service - Helsinki (FI)
     url: http://$IP_HELSINKI:47192/login
     icon: https://raw.githubusercontent.com/jesec/flood/master/flood.svg
-    maxResponseTime: 5000
-    expectedStatusCodes:
-      - 200
-      - 500
     assignees:
     - ArturiaPendragon
   - name: Datacenter - Paris (FR)
@@ -38,10 +30,6 @@ sites:
     icon: https://docs.nest.land/img/logo.svg
     check: "tcp-ping"
     port: 80
-    maxResponseTime: 5000
-    expectedStatusCodes:
-      - 200
-      - 500
     assignees:
     - ArturiaPendragon
   - name: API - Spain (ES)
