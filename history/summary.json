@@ -2,7 +2,7 @@
   {
     "name": "Arturia Pendragon Website",
     "url": "$PERSONAL_WEBSITE",
-    "icon": "$PERSONAL_ICON",
+    "icon": "https://findicons.com/files/icons/2118/nuvola/128/server.png",
     "slug": "arturia-pendragon-website",
     "status": "up",
     "uptime": "100.00%",
@@ -10,17 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 524,
-    "timeDay": 524,
-    "timeWeek": 524,
-    "timeMonth": 524,
-    "timeYear": 524,
+    "time": 538,
+    "timeDay": 538,
+    "timeWeek": 538,
+    "timeMonth": 538,
+    "timeYear": 538,
     "dailyMinutesDown": {}
   },
   {
     "name": "API",
     "url": "$URL_API",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://findicons.com/files/icons/2118/nuvola/128/server.png",
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 620,
-    "timeDay": 620,
-    "timeWeek": 620,
-    "timeMonth": 620,
-    "timeYear": 620,
+    "time": 605,
+    "timeDay": 605,
+    "timeWeek": 605,
+    "timeMonth": 605,
+    "timeYear": 605,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "$IP_PARIS",
     "icon": "https://findicons.com/files/icons/2118/nuvola/128/server.png",
     "slug": "datacenter-paris-ovh",
-    "status": "down",
-    "uptime": "2.78%",
-    "uptimeDay": "2.78%",
-    "uptimeWeek": "2.78%",
-    "uptimeMonth": "2.78%",
-    "uptimeYear": "2.78%",
+    "status": "up",
+    "uptime": "1.95%",
+    "uptimeDay": "1.95%",
+    "uptimeWeek": "1.95%",
+    "uptimeMonth": "1.95%",
+    "uptimeYear": "1.95%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-13": 0
+      "2021-10-13": 5
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "$IP_HELSINKI",
     "icon": "https://findicons.com/files/icons/2118/nuvola/128/server.png",
     "slug": "datacenter-helsinki-hetzner",
-    "status": "down",
-    "uptime": "6.87%",
-    "uptimeDay": "6.87%",
-    "uptimeWeek": "6.87%",
-    "uptimeMonth": "6.87%",
-    "uptimeYear": "6.87%",
+    "status": "up",
+    "uptime": "1.45%",
+    "uptimeDay": "1.45%",
+    "uptimeWeek": "1.45%",
+    "uptimeMonth": "1.45%",
+    "uptimeYear": "1.45%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-13": 0
+      "2021-10-13": 5
     }
   }
 ]
