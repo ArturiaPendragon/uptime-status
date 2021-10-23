@@ -23,16 +23,16 @@
     "icon": "https://raw.githubusercontent.com/jesec/flood/master/flood.svg",
     "slug": "flood-service-helsinki-fi",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 329,
-    "timeDay": 324,
-    "timeWeek": 325,
-    "timeMonth": 329,
-    "timeYear": 329,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 330,
+    "timeDay": 353,
+    "timeWeek": 330,
+    "timeMonth": 330,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2021-10-13": 9
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 621,
-    "timeDay": 660,
-    "timeWeek": 595,
-    "timeMonth": 621,
-    "timeYear": 621,
+    "time": 623,
+    "timeDay": 649,
+    "timeWeek": 600,
+    "timeMonth": 623,
+    "timeYear": 623,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 618,
-    "timeDay": 742,
-    "timeWeek": 687,
-    "timeMonth": 618,
-    "timeYear": 618,
+    "time": 624,
+    "timeDay": 781,
+    "timeWeek": 696,
+    "timeMonth": 624,
+    "timeYear": 624,
     "dailyMinutesDown": {}
   }
 ]
