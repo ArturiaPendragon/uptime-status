@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 313,
-    "timeDay": 223,
-    "timeWeek": 318,
-    "timeMonth": 301,
-    "timeYear": 313,
+    "time": 312,
+    "timeDay": 218,
+    "timeWeek": 298,
+    "timeMonth": 297,
+    "timeYear": 312,
     "dailyMinutesDown": {
       "2021-11-06": 18,
       "2021-10-13": 9
@@ -52,7 +52,7 @@
     "time": 136,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 134,
+    "timeMonth": 132,
     "timeYear": 136,
     "dailyMinutesDown": {}
   },
@@ -70,7 +70,7 @@
     "time": 135,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 134,
+    "timeMonth": 131,
     "timeYear": 135,
     "dailyMinutesDown": {}
   },
@@ -80,16 +80,16 @@
     "icon": "https://docs.nest.land/img/logo.svg",
     "slug": "api-spain-es",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.26%",
-    "uptimeYear": "99.49%",
-    "time": 567,
-    "timeDay": 399,
-    "timeWeek": 547,
-    "timeMonth": 533,
-    "timeYear": 567,
+    "uptimeYear": "99.50%",
+    "time": 563,
+    "timeDay": 386,
+    "timeWeek": 514,
+    "timeMonth": 526,
+    "timeYear": 563,
     "dailyMinutesDown": {
       "2021-11-19": 326
     }
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 676,
-    "timeDay": 374,
-    "timeWeek": 843,
-    "timeMonth": 699,
-    "timeYear": 676,
+    "time": 671,
+    "timeDay": 386,
+    "timeWeek": 763,
+    "timeMonth": 687,
+    "timeYear": 671,
     "dailyMinutesDown": {}
   }
 ]
