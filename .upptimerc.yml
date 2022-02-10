@@ -35,7 +35,7 @@ sites:
   - name: API - Spain (ES)
     url: $URL_API
     icon: https://docs.nest.land/img/logo.svg
-    maxResponseTime: 5000
+    maxResponseTime: 4000
     expectedStatusCodes:
       - 200
       - 500
