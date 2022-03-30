@@ -23,11 +23,11 @@
     "icon": "https://raw.githubusercontent.com/jesec/flood/master/flood.svg",
     "slug": "flood-service-helsinki-fi",
     "status": "up",
-    "uptime": "92.05%",
+    "uptime": "92.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.05%",
+    "uptimeYear": "92.09%",
     "time": 308,
     "timeDay": 218,
     "timeWeek": 418,
@@ -99,11 +99,11 @@
     "icon": "https://docs.nest.land/img/logo.svg",
     "slug": "api-spain-es",
     "status": "up",
-    "uptime": "68.88%",
+    "uptime": "69.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "68.88%",
+    "uptimeYear": "69.03%",
     "time": 1122,
     "timeDay": 13,
     "timeWeek": 136,
@@ -174,9 +174,9 @@
     "url": "https://www.ovh.com/fr/",
     "icon": "https://docs.nest.land/img/logo.svg",
     "slug": "arturia-pendragon-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -185,6 +185,8 @@
     "timeWeek": 622,
     "timeMonth": 709,
     "timeYear": 760,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 0
+    }
   }
 ]
