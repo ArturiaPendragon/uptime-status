@@ -5,18 +5,18 @@
     "icon": "https://findicons.com/files/icons/2118/nuvola/128/server.png",
     "slug": "datacenter-helsinki-fi",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "79.65%",
-    "uptimeWeek": "97.09%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.90%",
+    "uptimeDay": "78.49%",
+    "uptimeWeek": "96.93%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.90%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-18": 293
+      "2022-05-18": 310
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.86%",
-    "time": 309,
-    "timeDay": 296,
-    "timeWeek": 291,
-    "timeMonth": 303,
-    "timeYear": 309,
+    "time": 308,
+    "timeDay": 263,
+    "timeWeek": 283,
+    "timeMonth": 301,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2022-02-27": 123,
       "2022-02-26": 121,
@@ -65,18 +65,18 @@
     "icon": "https://findicons.com/files/icons/2118/nuvola/128/server.png",
     "slug": "datacenter-paris-fr",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "79.74%",
-    "uptimeWeek": "97.11%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.90%",
+    "uptimeDay": "78.58%",
+    "uptimeWeek": "96.94%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.90%",
     "time": 126,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2022-05-18": 292
+      "2022-05-18": 308
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://docs.nest.land/img/logo.svg",
     "slug": "ishtar-project-paris-fr",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "79.83%",
-    "uptimeWeek": "97.12%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.90%",
+    "uptimeDay": "78.67%",
+    "uptimeWeek": "96.95%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.90%",
     "time": 125,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2022-05-18": 290
+      "2022-05-18": 307
     }
   },
   {
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "75.95%",
-    "time": 868,
-    "timeDay": 53,
-    "timeWeek": 68,
-    "timeMonth": 108,
-    "timeYear": 868,
+    "time": 864,
+    "timeDay": 98,
+    "timeWeek": 77,
+    "timeMonth": 109,
+    "timeYear": 864,
     "dailyMinutesDown": {
       "2022-03-25": 44,
       "2022-03-24": 24,
@@ -186,11 +186,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 787,
-    "timeDay": 692,
-    "timeWeek": 729,
-    "timeMonth": 809,
-    "timeYear": 787,
+    "time": 786,
+    "timeDay": 605,
+    "timeWeek": 703,
+    "timeMonth": 799,
+    "timeYear": 786,
     "dailyMinutesDown": {}
   }
 ]
