@@ -5,18 +5,18 @@
     "icon": "https://findicons.com/files/icons/2118/nuvola/128/server.png",
     "slug": "datacenter-helsinki-fi",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "79.65%",
+    "uptimeWeek": "97.09%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.91%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-18": 3
+      "2022-05-18": 293
     }
   },
   {
@@ -25,11 +25,11 @@
     "icon": "https://raw.githubusercontent.com/jesec/flood/master/flood.svg",
     "slug": "flood-service-helsinki-fi",
     "status": "up",
-    "uptime": "93.85%",
+    "uptime": "93.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.85%",
+    "uptimeYear": "93.86%",
     "time": 309,
     "timeDay": 296,
     "timeWeek": 291,
@@ -65,18 +65,18 @@
     "icon": "https://findicons.com/files/icons/2118/nuvola/128/server.png",
     "slug": "datacenter-paris-fr",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "79.74%",
+    "uptimeWeek": "97.11%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.91%",
     "time": 126,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2022-05-18": 1
+      "2022-05-18": 292
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://docs.nest.land/img/logo.svg",
     "slug": "ishtar-project-paris-fr",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "79.83%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.91%",
     "time": 125,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2022-05-18": 0
+      "2022-05-18": 290
     }
   },
   {
@@ -105,11 +105,11 @@
     "icon": "https://docs.nest.land/img/logo.svg",
     "slug": "api-spain-es",
     "status": "up",
-    "uptime": "75.93%",
+    "uptime": "75.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.93%",
+    "uptimeYear": "75.95%",
     "time": 868,
     "timeDay": 53,
     "timeWeek": 68,
