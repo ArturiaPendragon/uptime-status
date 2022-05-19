@@ -5,8 +5,7 @@ sites:
   - name: Datacenter - Helsinki (FI)
     url: $IP_HELSINKI
     icon: https://findicons.com/files/icons/2118/nuvola/128/server.png
-    check: "curl"
-    port: 80
+    check: "tcp-ping"
     assignees:
     - ArturiaPendragon
   - name: Flood Service - Helsinki (FI)
@@ -17,8 +16,7 @@ sites:
   - name: Datacenter - Paris (FR)
     url: $IP_PARIS
     icon: https://findicons.com/files/icons/2118/nuvola/128/server.png
-    check: "curl"
-    port: 80
+    check: "tcp-ping"
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
