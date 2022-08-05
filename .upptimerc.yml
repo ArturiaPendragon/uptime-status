@@ -6,6 +6,7 @@ sites:
     url: $IP_HELSINKI
     icon: https://findicons.com/files/icons/2118/nuvola/128/server.png
     check: "tcp-ping"
+    port: 42874
     assignees:
     - ArturiaPendragon
   - name: Flood Service - Helsinki (FI)
