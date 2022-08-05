@@ -14,20 +14,20 @@ sites:
     assignees:
     - ArturiaPendragon
   - name: Datacenter - Paris (FR)
+    check: "tcp-ping"
     url: $IP_PARIS
     icon: https://findicons.com/files/icons/2118/nuvola/128/server.png
     check: "tcp-ping"
-    maxResponseTime: 5000
-    expectedStatusCodes:
-      - 200
-      - 500
+    port: 3000
+    maxResponseTime: 10000
     assignees:
     - ArturiaPendragon
   - name: Ishtar Project - Paris (FR)
     url: $IP_PARIS
     icon: https://docs.nest.land/img/logo.svg
     check: "tcp-ping"
-    port: 80
+    port: 3000
+    maxResponseTime: 10000
     assignees:
     - ArturiaPendragon
   - name: API - Spain (ES)
