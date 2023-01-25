@@ -26,7 +26,7 @@
     "icon": "https://raw.githubusercontent.com/jesec/flood/master/flood.svg",
     "slug": "flood-service-helsinki-fi",
     "status": "up",
-    "uptime": "97.11%",
+    "uptime": "97.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -69,9 +69,9 @@
     "url": "$IP_PARIS",
     "icon": "https://docs.nest.land/img/logo.svg",
     "slug": "ishtar-project-paris-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
@@ -81,6 +81,7 @@
     "timeMonth": 112,
     "timeYear": 113,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-05-19": 972,
       "2022-05-18": 1284
     }
@@ -91,7 +92,7 @@
     "icon": "https://docs.nest.land/img/logo.svg",
     "slug": "api-spain-es",
     "status": "up",
-    "uptime": "99.51%",
+    "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.73%",
     "uptimeMonth": "97.47%",
