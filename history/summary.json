@@ -26,7 +26,7 @@
     "icon": "https://raw.githubusercontent.com/jesec/flood/master/flood.svg",
     "slug": "flood-service-helsinki-fi",
     "status": "up",
-    "uptime": "97.21%",
+    "uptime": "97.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -92,18 +92,18 @@
     "icon": "https://docs.nest.land/img/logo.svg",
     "slug": "api-spain-es",
     "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "82.27%",
-    "uptimeWeek": "95.74%",
-    "uptimeMonth": "95.67%",
+    "uptime": "99.50%",
+    "uptimeDay": "83.03%",
+    "uptimeWeek": "95.85%",
+    "uptimeMonth": "95.70%",
     "uptimeYear": "99.34%",
     "time": 927,
-    "timeDay": 87,
+    "timeDay": 83,
     "timeWeek": 84,
     "timeMonth": 94,
     "timeYear": 832,
     "dailyMinutesDown": {
-      "2023-02-10": 255,
+      "2023-02-10": 244,
       "2023-02-09": 174,
       "2023-02-01": 22,
       "2023-01-31": 395,
@@ -137,7 +137,7 @@
       "2022-12-03": 16,
       "2022-12-02": 442,
       "2022-12-01": 165,
-      "2022-11-30": 17
+      "2022-11-30": 39
     }
   },
   {
