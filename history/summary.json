@@ -88,13 +88,13 @@
     "url": "$URL_API",
     "icon": "https://docs.nest.land/img/logo.svg",
     "slug": "api-spain-es",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "64.61%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "64.60%",
     "uptimeWeek": "93.91%",
     "uptimeMonth": "95.36%",
-    "uptimeYear": "99.28%",
-    "time": 726,
+    "uptimeYear": "99.29%",
+    "time": 723,
     "timeDay": 137,
     "timeWeek": 147,
     "timeMonth": 107,
@@ -122,7 +122,7 @@
       "2023-02-14": 143,
       "2023-02-13": 447,
       "2023-02-12": 313,
-      "2023-02-11": 387
+      "2023-02-11": 315
     }
   },
   {
