@@ -67,7 +67,7 @@
     "icon": "https://docs.nest.land/img/logo.svg",
     "slug": "ishtar-project-paris-fr",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -88,11 +88,11 @@
     "url": "$URL_API",
     "icon": "https://docs.nest.land/img/logo.svg",
     "slug": "api-spain-es",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "80.36%",
-    "uptimeMonth": "86.99%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "80.35%",
+    "uptimeMonth": "87.06%",
     "uptimeYear": "98.92%",
     "time": 685,
     "timeDay": 73,
@@ -100,6 +100,7 @@
     "timeMonth": 157,
     "timeYear": 633,
     "dailyMinutesDown": {
+      "2023-04-20": 0,
       "2023-04-15": 80,
       "2023-04-14": 927,
       "2023-04-13": 974,
@@ -108,7 +109,7 @@
       "2023-04-10": 96,
       "2023-04-09": 540,
       "2023-04-08": 846,
-      "2023-04-07": 247
+      "2023-04-07": 213
     }
   },
   {
