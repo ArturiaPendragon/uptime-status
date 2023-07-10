@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 114,
-    "timeWeek": 129,
-    "timeMonth": 149,
+    "timeDay": 117,
+    "timeWeek": 125,
+    "timeMonth": 147,
     "timeYear": 141,
     "dailyMinutesDown": {}
   },
@@ -29,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 301,
-    "timeDay": 229,
-    "timeWeek": 259,
-    "timeMonth": 289,
+    "timeDay": 237,
+    "timeWeek": 251,
+    "timeMonth": 286,
     "timeYear": 301,
-    "dailyMinutesDown": {
-      "2022-07-10": 287
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Datacenter - Paris (FR)",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 84,
-    "timeWeek": 157,
-    "timeMonth": 146,
+    "timeDay": 85,
+    "timeWeek": 153,
+    "timeMonth": 144,
     "timeYear": 116,
     "dailyMinutesDown": {}
   },
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 118,
-    "timeDay": 83,
-    "timeWeek": 156,
-    "timeMonth": 160,
-    "timeYear": 118,
+    "time": 117,
+    "timeDay": 88,
+    "timeWeek": 153,
+    "timeMonth": 158,
+    "timeYear": 117,
     "dailyMinutesDown": {
       "2023-01-25": 16
     }
@@ -86,10 +84,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.89%",
-    "time": 583,
-    "timeDay": 351,
-    "timeWeek": 165,
-    "timeMonth": 145,
+    "time": 575,
+    "timeDay": 305,
+    "timeWeek": 197,
+    "timeMonth": 148,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2023-06-13": 17,
@@ -119,10 +117,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 804,
-    "timeDay": 468,
-    "timeWeek": 650,
-    "timeMonth": 770,
+    "time": 803,
+    "timeDay": 462,
+    "timeWeek": 583,
+    "timeMonth": 746,
     "timeYear": 807,
     "dailyMinutesDown": {
       "2023-03-02": 19,
