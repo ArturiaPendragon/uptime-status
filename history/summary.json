@@ -40,9 +40,9 @@
     "url": "$IP_PARIS",
     "icon": "https://findicons.com/files/icons/2118/nuvola/128/server.png",
     "slug": "datacenter-paris-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +51,18 @@
     "timeWeek": 98,
     "timeMonth": 142,
     "timeYear": 116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-19": 0
+    }
   },
   {
     "name": "Ishtar Project - Paris (FR)",
     "url": "$IP_PARIS",
     "icon": "https://docs.nest.land/img/logo.svg",
     "slug": "ishtar-project-paris-fr",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -70,6 +72,7 @@
     "timeMonth": 163,
     "timeYear": 118,
     "dailyMinutesDown": {
+      "2023-07-19": 0,
       "2023-01-25": 16
     }
   },
@@ -80,12 +83,12 @@
     "slug": "api-spain-es",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "98.16%",
+    "uptimeDay": "98.95%",
     "uptimeWeek": "98.51%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "98.97%",
     "time": 475,
-    "timeDay": 211,
+    "timeDay": 214,
     "timeWeek": 171,
     "timeMonth": 158,
     "timeYear": 289,
