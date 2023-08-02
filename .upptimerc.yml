@@ -18,6 +18,7 @@ sites:
     url: $IP_PARIS
     icon: https://findicons.com/files/icons/2118/nuvola/128/server.png
     check: "tcp-ping"
+    port: 42589
     maxResponseTime: 10000
     assignees:
     - ArturiaPendragon
@@ -25,6 +26,7 @@ sites:
     url: $IP_PARIS
     icon: https://docs.nest.land/img/logo.svg
     check: "tcp-ping"
+    port: 42589
     maxResponseTime: 10000
     assignees:
     - ArturiaPendragon
