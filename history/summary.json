@@ -22,9 +22,9 @@
     "url": "http://$IP_HELSINKI:47192/login",
     "icon": "https://raw.githubusercontent.com/jesec/flood/master/flood.svg",
     "slug": "flood-service-helsinki-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "98.05%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 320,
     "timeMonth": 292,
     "timeYear": 284,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-06": 0
+    }
   },
   {
     "name": "Datacenter - Paris (FR)",
@@ -109,12 +111,12 @@
     "url": "$URL_API",
     "icon": "https://docs.nest.land/img/logo.svg",
     "slug": "api-spain-es",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "93.43%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "93.41%",
     "uptimeWeek": "95.93%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "99.15%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "99.19%",
     "time": 267,
     "timeDay": 169,
     "timeWeek": 137,
@@ -146,8 +148,7 @@
       "2023-04-22": 35,
       "2023-04-20": 1144,
       "2023-04-15": 80,
-      "2023-04-14": 927,
-      "2023-04-13": 42
+      "2023-04-14": 740
     }
   },
   {
