@@ -24,18 +24,16 @@
     "slug": "flood-service-helsinki-fi",
     "status": "up",
     "uptime": "98.05%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
     "timeDay": 1600,
     "timeWeek": 640,
     "timeMonth": 366,
     "timeYear": 291,
-    "dailyMinutesDown": {
-      "2023-09-06": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Datacenter - Paris (FR)",
@@ -111,11 +109,11 @@
     "url": "$URL_API",
     "icon": "https://docs.nest.land/img/logo.svg",
     "slug": "api-spain-es",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "92.72%",
-    "uptimeWeek": "95.83%",
-    "uptimeMonth": "98.60%",
+    "uptimeDay": "93.41%",
+    "uptimeWeek": "95.93%",
+    "uptimeMonth": "98.62%",
     "uptimeYear": "99.19%",
     "time": 267,
     "timeDay": 159,
@@ -123,7 +121,7 @@
     "timeMonth": 140,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2023-09-06": 100,
+      "2023-09-06": 90,
       "2023-09-05": 80,
       "2023-09-04": 95,
       "2023-09-03": 80,
