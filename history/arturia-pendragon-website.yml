@@ -1,7 +1,7 @@
 url: https://www.ovh.com/fr/
-status: up
+status: degraded
 code: 200
-responseTime: 534
-lastUpdated: 2023-09-09T23:12:26.736Z
+responseTime: 8027
+lastUpdated: 2023-09-10T12:13:18.146Z
 startTime: 2021-10-13T09:37:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
