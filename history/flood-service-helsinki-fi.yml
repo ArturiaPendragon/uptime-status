@@ -1,7 +1,7 @@
 url: http://$IP_HELSINKI:47192/login
 status: up
 code: 200
-responseTime: 279
-lastUpdated: 2023-09-14T23:13:50.893Z
+responseTime: 358
+lastUpdated: 2023-09-15T23:12:51.218Z
 startTime: 2021-10-13T10:19:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
