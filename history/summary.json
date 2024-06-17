@@ -155,11 +155,11 @@
     "url": "https://www.ovh.com/fr/",
     "icon": "https://docs.nest.land/img/logo.svg",
     "slug": "arturia-pendragon-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 811,
     "timeDay": 486,
@@ -167,7 +167,7 @@
     "timeMonth": 810,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2024-06-17": 10,
+      "2024-06-17": 0,
       "2023-10-21": 295,
       "2023-09-10": 26
     }
